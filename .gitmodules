@@ -1,0 +1,3 @@
+[submodule "angular_rotas"]
+	path = angular_rotas
+	url = git@github.com:ennesdes/angular_rotas.git
